@@ -4,15 +4,13 @@
 
 ## Структура 
 
+```bash
 student-grade-prediction/
 │
-├── data/
-│   └── student-mat.csv
-│
-├── notebooks/
-│   └── student_grade_prediction.ipynb
-│
-└─── README.md
+├── student-mat.csv
+├── student_grade_prediction.ipynb
+├── README.md
+└── requirements.txt
 
 ## Обзор проекта
 
