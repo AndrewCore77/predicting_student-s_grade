@@ -4,8 +4,8 @@
 
 ## Структура 
 
-README.md - указания
-student-mat.csv - датасет
+README.md - указания; 
+student-mat.csv - датасет; 
 student_grade_prediction.ipynb - сам проект
 
 ## Обзор проекта
